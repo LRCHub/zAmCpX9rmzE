@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "INTERNET YAMERO",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-24T16:43:05.047814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "NEEDY GIRL OVERDOSE/KOTOKO/Aiobahn",
+      "has_synced": true,
+      "path": "select/01_INTERNET_YAMERO_NEEDY_GIRL_OVERDOSE_KOTOKO_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "NEEDY GIRL OVERDOSE feat. KOTOKO",
+      "has_synced": true,
+      "path": "select/02_INTERNET_YAMERO_NEEDY_GIRL_OVERDOSE_feat._KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "NEEDY GIRL OVERDOSE",
+      "has_synced": true,
+      "path": "select/03_INTERNET_YAMERO_NEEDY_GIRL_OVERDOSE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/04_INTERNET_YAMERO_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/05_INTERNET_YAMERO_(Russian_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "NEEDY GIRL OVERDOSE • KOTOKO • Aiobahn",
+      "has_synced": true,
+      "path": "select/06_INTERNET_YAMERO_NEEDY_GIRL_OVERDOSE_•_KOTOKO_•_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/07_INTERNET_YAMERO_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "internet yamero",
+      "artist": "needy girl overdose kotoko",
+      "has_synced": true,
+      "path": "select/08_internet_yamero_needy_girl_overdose_kotoko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "Aiobahn feat. KOTOKO",
+      "has_synced": true,
+      "path": "select/09_INTERNET_YAMERO_Aiobahn_feat._KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aiobahn feat. KOTOKO - INTERNET YAMERO (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/10_Aiobahn_feat._KOTOKO_-_INTERNET_YAMERO_(Official_Music_Video)_[Theme_for_NEEDY_G_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Internet Yamero",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/11_Internet_Yamero_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "internet yamero",
+      "artist": "kotoko aiobahn needy girl overdose",
+      "has_synced": true,
+      "path": "select/12_internet_yamero_kotoko_aiobahn_needy_girl_overdose.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aiobahn +81 feat. KOTOKO - INTERNET YAMERO (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/13_Aiobahn_+81_feat._KOTOKO_-_INTERNET_YAMERO_(Official_Music_Video)_[Theme_for_NEE_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aiobahn +81 feat. KOTOKO - INTERNET YAMERO (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/14_Aiobahn_+81_feat._KOTOKO_-_INTERNET_YAMERO_(Official_Music_Video)_[Theme_for_NEE_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aiobahn +81 feat. KOTOKO - INTERNET YAMERO (Official Music Video) [Theme for NEEDY GIRL OVERDOSE]",
+      "artist": "NEEDY GIRL OVERDOSE",
+      "has_synced": true,
+      "path": "select/15_Aiobahn_+81_feat._KOTOKO_-_INTERNET_YAMERO_(Official_Music_Video)_[Theme_for_NEE_NEEDY_GIRL_OVERDOSE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "【ENGLISH COVER】INTERNET YAMERO (Mori Calliope)",
+      "artist": "Mori Calliope Ch. hololive-EN",
+      "has_synced": true,
+      "path": "select/16_【ENGLISH_COVER】INTERNET_YAMERO_(Mori_Calliope)_Mori_Calliope_Ch._hololive-EN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO（Aiobahn feat.KOTOKO）",
+      "artist": "From \"NEEDY STREAMER OVERLOAD\"",
+      "has_synced": true,
+      "path": "select/17_INTERNET_YAMERO(Aiobahn_feat.KOTOKO)_From__NEEDY_STREAMER_OVERLOAD.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO",
+      "artist": "NEEDY GIRL OVERDOSE、KOTOKO、Aiobahn  81",
+      "has_synced": true,
+      "path": "select/18_INTERNET_YAMERO_NEEDY_GIRL_OVERDOSE、KOTOKO、Aiobahn_81.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "internet yamero",
+      "artist": "needy girl overdose, kotoko, & aiobahn +81",
+      "has_synced": true,
+      "path": "select/19_internet_yamero_needy_girl_overdose,_kotoko,_&_aiobahn_+81.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "INTERNET YAMERO - Russian ver. (Paused)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/20_INTERNET_YAMERO_-_Russian_ver._(Paused)_Sati_Akura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INTERNET YAMERO",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_INTERNET_YAMERO_藍月なくる.txt"
+    }
+  ]
+}
